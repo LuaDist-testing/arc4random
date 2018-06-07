@@ -1,17 +1,17 @@
 -- This file was automatically generated for the LuaDist project.
 
 package = "arc4random"
-version = "1.3-2"
+version = "1.3-3"
 
 -- LuaDist source
 source = {
-  tag = "1.3-2",
+  tag = "1.3-3",
   url = "git://github.com/LuaDist-testing/arc4random.git"
 }
 -- Original source
 -- source = {
 -- 	url = "git://github.com/mikejsavage/lua-arc4random.git",
--- 	tag = "v1.3-2",
+-- 	tag = "v1.3-3",
 -- }
 
 description = {
